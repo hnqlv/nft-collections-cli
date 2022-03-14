@@ -1,0 +1,1 @@
+Build with go `go build -o /usr/local/go/bin/opensea` and run `opensea collections --total 5000`.
